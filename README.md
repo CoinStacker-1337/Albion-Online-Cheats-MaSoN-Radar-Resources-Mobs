@@ -26,6 +26,7 @@ This cheat for Albion Online has proven itself from the best side, regular updat
  , Radar zoom
  , Scan radius.
 
+
 **VISUALS COLORS**
 
 
