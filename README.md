@@ -69,8 +69,6 @@ This cheat for Albion Online has proven itself from the best side, regular updat
  , Only 2-st TIER chests
  , Only 3-st TIER chests
  , Only 4-st TIER chests.
- 
-The functionality of the program can be changed at any time at the discretion of the developers without prior notification of users!
 
 
 [![Watch the video](https://th.bing.com/th/id/OIP.d8P8jNG1aB05KCEJLbcfggHaEK?rs=1&pid=ImgDetMain)](https://kinescope.io/embed/kV3UoPhB9vp6WEo4oB377G)
