@@ -57,10 +57,12 @@ This cheat for Albion Online has proven itself from the best side, regular updat
  , Only 6-st TIER items
  , Only 7-st TIER items
  , Only 8-st TIER items.
+ 
 
 **CHESTS**
 
- Chests filter
+
+ -Chests filter
  , Only 1-st TIER chests
  , Only 2-st TIER chests
  , Only 3-st TIER chests
