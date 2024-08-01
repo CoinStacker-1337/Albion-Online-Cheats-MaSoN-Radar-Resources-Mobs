@@ -1,2 +1,5 @@
-# Albion-Online-Cheats-MaSoN-Radar-Resources-Mobs
-Supported game version: Official client / Steam Supported game mode: Window or window frameless Supported Windows OS: 10x64, versions (2004 / 20H2 / 21H1 / 21H2 / 22H2) Supported anti-cheats: In-game Supported processors: Intel and AMD Support for invisibility on videos or screenshots: No​
+# Albion Online Cheats Radar Resources Mobs
+
+This cheat for Albion Online has proven itself from the best side, regular updates, good functionality
+
+[![Watch the video](https://th.bing.com/th/id/OIP.d8P8jNG1aB05KCEJLbcfggHaEK?rs=1&pid=ImgDetMain)](https://kinescope.io/embed/kV3UoPhB9vp6WEo4oB377G)
