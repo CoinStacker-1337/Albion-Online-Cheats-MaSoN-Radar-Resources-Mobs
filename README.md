@@ -70,7 +70,7 @@ This cheat for Albion Online has proven itself from the best side, regular updat
  , Only 3-st TIER chests
  , Only 4-st TIER chests.
  
-* The functionality of the program can be changed at any time at the discretion of the developers without prior notification of users!
+The functionality of the program can be changed at any time at the discretion of the developers without prior notification of users!
 
 
 Screenshots:
