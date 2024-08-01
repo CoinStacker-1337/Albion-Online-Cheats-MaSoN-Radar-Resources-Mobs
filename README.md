@@ -2,18 +2,7 @@
 
 This cheat for Albion Online has proven itself from the best side, regular updates, good functionality
 
-# Video
-
-TECHNICAL INFORMATION
-Supported game version: Official client / Steam
-Supported Game Mode: Windowed / Full Screen in Window
-Supported OS: Windows 10 x64, versions (2004 / 20H2 / 21H1 / 21H2 / 22H2)
-Supported anti-cheats: In - game
-Supported processors: Intel and AMD
-Support for invisibility on videos or screenshots: No
-⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-CHEAT FUNCTIONS / DESCRIPTION
-⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+# CHEAT FUNCTIONS
 
 MAIN
 Show Resources / Display resources (wood, stone, ore, etc.)
