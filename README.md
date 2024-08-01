@@ -44,8 +44,10 @@ This cheat for Albion Online has proven itself from the best side, regular updat
  , Resources TIER 7 color
  , Resources TIER 8 color
  , Chests color.
+ 
 
 **RESOURCES**
+
 
 -Enable filter
  , Resources filter
@@ -70,8 +72,7 @@ This cheat for Albion Online has proven itself from the best side, regular updat
  
 * The functionality of the program can be changed at any time at the discretion of the developers without prior notification of users!
 
-⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 
-Screenshots
+Screenshots:
 [![Watch the video](https://th.bing.com/th/id/OIP.d8P8jNG1aB05KCEJLbcfggHaEK?rs=1&pid=ImgDetMain)](https://kinescope.io/embed/kV3UoPhB9vp6WEo4oB377G)
 
