@@ -2,7 +2,7 @@
 
 This cheat for Albion Online has proven itself from the best side, regular updates, good functionality.
 
-# CHEAT FUNCTIONS
+# **CHEAT FUNCTIONS**
 
 **MAIN**
 
