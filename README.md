@@ -73,3 +73,8 @@ This cheat for Albion Online has proven itself from the best side, regular updat
 
 [![Watch the video](https://th.bing.com/th/id/OIP.d8P8jNG1aB05KCEJLbcfggHaEK?rs=1&pid=ImgDetMain)](https://kinescope.io/embed/kV3UoPhB9vp6WEo4oB377G)
 
+# Join The Telegram
+
+<a href="[https://t.me/We_Win_More]">
+  <img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram" width="290">
+</a>
